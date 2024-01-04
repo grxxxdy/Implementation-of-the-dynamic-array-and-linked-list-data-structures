@@ -1,0 +1,8 @@
+﻿  АСД_ЛАБ_5.cpp
+E:\source\repos\АСД_ЛАБ_5\АСД_ЛАБ_5\АСД_ЛАБ_5.cpp(583,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\source\repos\АСД_ЛАБ_5\АСД_ЛАБ_5\АСД_ЛАБ_5.cpp(501,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\source\repos\АСД_ЛАБ_5\АСД_ЛАБ_5\АСД_ЛАБ_5.cpp(595,4): message : see reference to function template instantiation 'void test<DynamicArray>(void)' being compiled
+E:\source\repos\АСД_ЛАБ_5\АСД_ЛАБ_5\АСД_ЛАБ_5.cpp(517,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\source\repos\АСД_ЛАБ_5\АСД_ЛАБ_5\АСД_ЛАБ_5.cpp(77): warning C4715: 'DynamicArray::get': not all control paths return a value
+E:\source\repos\АСД_ЛАБ_5\АСД_ЛАБ_5\АСД_ЛАБ_5.cpp(286): warning C4715: 'LinkedList::get': not all control paths return a value
+  АСД_ЛАБ_5.vcxproj -> E:\source\repos\АСД_ЛАБ_5\x64\Debug\АСД_ЛАБ_5.exe
